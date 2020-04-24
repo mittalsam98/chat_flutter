@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356141350852",
+    "firebase_url": "https://chatapp-f4f2d.firebaseio.com",
+    "project_id": "chatapp-f4f2d",
+    "storage_bucket": "chatapp-f4f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356141350852:android:f89a2136505d3739ff6e91",
+        "android_client_info": {
+          "package_name": "com.thesachin.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356141350852-np01kddhltrah61500foef00bneh34ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmHBPyb_GF_t1LxoRyqgGdLvnqWoI4TK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356141350852-np01kddhltrah61500foef00bneh34ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
